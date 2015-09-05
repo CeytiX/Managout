@@ -20,18 +20,18 @@ namespace Mng
 	std::string const COLOR_LIGHTGREEN	("\033[0;32m");
 	std::string const COLOR_LIGHTYELLOW	("\033[0;33m");
 	std::string const COLOR_LIGHTBLUE	("\033[0;34m");
-	std::string const COLOR_LIGHTMAGENTA("\033[0;35m");
+	std::string const COLOR_LIGHTMAGENTA	("\033[0;35m");
 	std::string const COLOR_LIGHTCYAN	("\033[0;36m");
 	std::string const COLOR_WHITE		("\033[0;37m");
 	
 	std::string const FONT_BLACK 		("\033[2;40m");
-	std::string const FONT_RED 			("\033[2;41m");
+	std::string const FONT_RED 		("\033[2;41m");
 	std::string const FONT_GREEN		("\033[2;42m");
 	std::string const FONT_YELLOW		("\033[2;43m");
-	std::string const FONT_BLUE			("\033[2;44m");
+	std::string const FONT_BLUE		("\033[2;44m");
 	std::string const FONT_MAGENTA		("\033[2;45m");
-	std::string const FONT_CYAN			("\033[2;46m");
-	std::string const FONT_GREY			("\033[2;47m");
+	std::string const FONT_CYAN		("\033[2;46m");
+	std::string const FONT_GREY		("\033[2;47m");
 	
 	std::string const FONT_LIGHTGREY	("\033[0;40m");
 	std::string const FONT_LIGHTRED		("\033[0;41m");
@@ -42,7 +42,7 @@ namespace Mng
 	std::string const FONT_LIGHTCYAN	("\033[0;46m");
 	std::string const FONT_WHITE		("\033[0;47m");
 	
-	std::string const EFFECT_VOID		("\033[0m");
+	std::string const EFFECT_RESET		("\033[0m");
 	std::string const EFFECT_BOLD		("\033[1m");
 	std::string const EFFECT_UNDERLINED	("\033[4m");
 	std::string const EFFECT_REVERSE	("\033[7m");
