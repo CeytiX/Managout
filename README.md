@@ -1,2 +1,2 @@
 # Managout
-[C++] Allows you to manage the output
+[C++] Allows you to manage the console output
