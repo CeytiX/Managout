@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-namespace Mng
+namespace mng
 {
 	std::string const COLOR_BLACK 		("\033[2;30m");
 	std::string const COLOR_RED 		("\033[2;31m");
